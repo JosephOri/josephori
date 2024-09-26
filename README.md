@@ -10,7 +10,7 @@ As a B.sc computer science graduate, I am constantly learning and improving my s
 * 🧠 I'm learning Web Application Development and constantly expending my skillset
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,git,nest,react,express,nodejs,next,mui,vite,docker,k8s,figma,mongo,postgres,npm,cs,cpp,c,bash,aws,linux,ubuntu,java,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,git,nest,react,express,nodejs,next,mui,vite,docker,k8s,figma,mysql,mongo,postgres,npm,cs,cpp,c,bash,aws,linux,ubuntu,java,html,css,python)](https://skillicons.dev)
 
 ### Socials
 
