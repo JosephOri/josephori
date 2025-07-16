@@ -15,11 +15,11 @@ As a B.sc computer science graduate, I am constantly learning and improving my s
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/josephori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ori-joseph-45o/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  
+<!--
 
 <b>My GitHub Stats</b>
 [![Ori Github avtivity graph](https://github-readme-activity-graph.vercel.app/graph?username=josephori&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-<!--
 
 **JosephOri/josephori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
