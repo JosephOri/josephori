@@ -12,10 +12,14 @@ As a B.sc computer science graduate, I am constantly learning and improving my s
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,git,nest,react,express,nodejs,next,postgres,mongo,mysql,html,css,tailwind,mui,bootstrap,styledcomponents,docker,prisma,jest,k8s,npm,pnpm,java,cpp,c,bash,aws,linux,ubuntu,debian,jquery,python,go,redux,babel,graphql,figma,github,vercel,netlify,notion)](https://skillicons.dev)
 
-### Socials
+## My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephori&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="josephori" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephori&show_icons=true&locale=en&theme=tokyonight" alt="josephori" /></p>
 
+### Socials
 <p align="left"> <a href="https://www.github.com/josephori" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ori-joseph-45o/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  
+
+
 <!--
 
 <b>My GitHub Stats</b>
@@ -32,4 +36,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josephori&label=Profile%20views&color=0e75b6&style=flat" alt="josephori" /> </p>
+
+
 -->
