@@ -1,5 +1,5 @@
 ## Hi 👋 My name is Ori, I am a Software Engineer
-------------------------
+
 As a B.sc computer science graduate, I am constantly learning and improving my skills in programming, software development, and problem-solving. I am passionate about using technology to make a positive impact on society and am excited to contribute to innovative projects that can make a positive impact to the world. My Github profile is a showcase of my projects and interests, and I welcome collaboration and feedback from the community.
 
 * 🌍 I'm based in Israel
